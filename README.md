@@ -8,7 +8,7 @@ This utility let's you create and monitor MySQL Galera cluster.
 
 ### Prerequisites
 
-This project requires Go 1.10 or newer. If you haven't installed Go yet, use the binary installers available from the [official Go website](https://getgb.io/docs/install/).
+This project requires Go 1.10 or newer. If you haven't installed Go yet, use the binary installers available from the [official Go website](https://golang.org/dl/).
 
 ### Compilation
 
