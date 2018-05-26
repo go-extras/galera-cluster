@@ -13,7 +13,7 @@ import (
 	"github.com/docker/docker/api/types/container"
 	"fmt"
 	"github.com/jessevdk/go-flags"
-	"galera-cluster/internal/cmd"
+	"galera-manager/internal/cmd"
 )
 
 // docker run --detach=true --name node1 -h node1 galera-test --wsrep-cluster-name=local-test --wsrep-cluster-address=gcomm://

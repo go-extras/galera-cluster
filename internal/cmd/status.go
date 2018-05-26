@@ -5,7 +5,7 @@ import (
 	"github.com/jessevdk/go-flags"
 	"context"
 	"log"
-	"galera-cluster/internal/cluster"
+	"galera-manager/internal/cluster"
 	"fmt"
 	"github.com/docker/docker/api/types"
 )
