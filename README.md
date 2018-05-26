@@ -71,6 +71,8 @@ First of all, you must have Docker installed and running. For MacOS users you mu
 
 ### Install the cluster
 
+NB: on linux you might need to prefix the commands with `sudo`.
+
 ```
 bash-3.2$ ./bin/galera-manager install
 [... docker image build and container creation commands will be shown ...]
