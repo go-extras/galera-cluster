@@ -1,5 +1,5 @@
-Galera Cluster Manager
-======================
+Galera Cluster Manager (interview test task)
+============================================
 
 This utility let's you create and monitor MySQL Galera cluster.
 
